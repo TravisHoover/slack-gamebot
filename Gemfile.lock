@@ -256,7 +256,7 @@ GEM
       kgio (~> 2.6)
       raindrops (~> 0.7)
     uri_template (0.7.0)
-    vcr (4.0.0)
+    vcr (6.0.0)
     virtus (1.0.5)
       axiom-types (~> 0.1)
       coercible (~> 1.0)
